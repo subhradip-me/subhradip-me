@@ -1,6 +1,9 @@
-<h1 align="center">Subhradip</h1>
 <p align="center">
-  <i>Building systems • Studying minds • Reducing chaos</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=120&section=header&text=Subhradip&fontSize=42&fontColor=e5e7eb&fontAlignY=50" />
+</p>
+
+<p align="center">
+  <sub>Building systems • Studying minds • Reducing chaos</sub>
 </p>
 
 <p align="center">
@@ -9,86 +12,78 @@
 
 ---
 
-### 🪶 Orientation
+## 🪶 Perspective
 
-I write code with the same intent I study philosophy:
+I write code the way I study philosophy:
 
-- to understand **structure**
-- to anticipate **failure**
-- to design for **pressure, not perfection**
+— to understand structure  
+— to predict failure  
+— to stay calm under pressure  
 
-Code is not art.  
-Code is a decision-making system.
-
----
-
-### ⚖️ Principles (Non-Negotiable)
-
-- Clarity beats brilliance  
-- Discipline outlasts motivation  
-- Systems must tolerate misuse  
-- Power lies in *what you remove*, not what you add  
-
-> *“The best system is calm under stress.”*
+Code is logic.  
+Architecture is intent.
 
 ---
 
-### 🧠 Strategic Lens
+<p align="center">
+  <img src="assets/divider.svg" width="70%" />
+</p>
 
-I think in:
-- **flows**, not pages  
-- **states**, not screens  
-- **architecture**, not features  
+## ⚖️ Principles
 
-Every project answers one question:
-> *What happens when this grows, breaks, or is used incorrectly?*
+• Clarity over cleverness  
+• Discipline over motivation  
+• Systems must survive misuse  
+• Power lives in what you remove  
 
----
-
-### ⚙️ Tools of Execution
-
-**Languages**  
-`Java` `JavaScript` `PHP`
-
-**Frontend**  
-`React` `HTML` `CSS` `Tailwind`
-
-**Backend & Data**  
-`Node.js` `Express` `MongoDB` `MySQL`
+> *The best system stays silent under stress.*
 
 ---
 
-### 🧩 Selected Work
+<p align="center">
+  <img src="assets/divider.svg" width="70%" />
+</p>
+
+## ⚙️ Tools of Execution
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,php,react,nodejs,express,mongodb,mysql,html,css,tailwind&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/divider.svg" width="70%" />
+</p>
+
+## 🧩 Selected Work
 
 **E-Library**  
 A controlled digital system — roles, access, subscriptions, and order.
 
 **Smart Link Manager (In Progress)**  
-A bookmark system designed to *think structurally*: organization, analytics, and intent — not clutter.
+A system to organize links by intent, not clutter.
 
-> Built for extension. Designed for control.
+Built for extension. Designed for control.
 
 ---
 
-### 📈 Signals (Noise Filtered)
+<p align="center">
+  <img src="assets/divider.svg" width="70%" />
+</p>
+
+## 📈 Signals
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhradip-me&show_icons=true&hide_border=true&bg_color=00000000&text_color=9ca3af&icon_color=9ca3af" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhradip-me&hide_border=true&background=00000000&stroke=9ca3af&ring=9ca3af&fire=9ca3af&currStreakLabel=9ca3af" />
-</p>
-
----
-
-### 📫 Contact (When Necessary)
-
-- LinkedIn → your-link-here  
-- Portfolio → your-link-here  
-
 ---
 
 <p align="center">
   <sub>Build quietly. Observe carefully. Move deliberately.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=80&section=footer&text=Control%20entropy.&fontSize=14&fontColor=9ca3af" />
 </p>

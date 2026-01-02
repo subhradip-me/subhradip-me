@@ -10,8 +10,8 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&borderRadius=20)](https://github.com/subhradip-me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=20)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&borderRadius=20)](https://subhradip.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=20)](https://www.linkedin.com/in/subhradip-me)
 ![Profile Views](https://komarev.com/ghpvc/?username=subhradip-me&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br>
